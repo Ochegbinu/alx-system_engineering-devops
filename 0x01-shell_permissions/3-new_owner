@@ -1,0 +1,30 @@
+#!/bin/bash
+chown betty hello >> 3-new_owner
+
+
+echo chown betty hello
+chown betty hello >> 3-new_owner
+echo chown betty hello
+chown betty hello >> 3-new_owner
+
+echo chown betty hello
+chown betty hello >> 3-new_owner
+
+
+
+echo chown betty hello
+chown betty hello >> 3-new_owner
+
+
+
+
+
+
+
+
+
+
+
+
+echo chown betty hello
+chown betty hello
