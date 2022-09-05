@@ -1,1 +1,1 @@
-my first shell readme
+my first shell rediection readme
