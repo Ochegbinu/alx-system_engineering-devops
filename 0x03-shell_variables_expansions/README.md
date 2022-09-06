@@ -1,6 +1,1 @@
-
-[A[A
-
-
-
-
+my shell expansion readme
